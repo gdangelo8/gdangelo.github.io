@@ -9,9 +9,11 @@ I am a post­doc­to­ral re­se­ar­cher stu­dy­ing host-mi­cro­be in­ter
 
 <!-- To view a brief version of my CV, [click here](/cv_short.pdf). -->
 
-## CV
+{% include cv.md %}
+
 {% include contact.html %}
 
+<!--
 ## My work...
 
 Include article-style summaries about my papers or smth. Each one as its own blog post.
