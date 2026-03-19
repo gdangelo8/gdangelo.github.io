@@ -14,15 +14,15 @@ repo: https://github.com/gdangelo8/gdangelo8.github.io/
 author:
   name: Grace D'Angelo
   email: gdangelo808@pm.me
-photo: /assets/jpg/IMG_4269_cropped1.png #IMG_4450.jpeg IMG_4269.jpeg
+photo: /assets/10-GraceDangelo.png #IMG_4450.jpeg IMG_4269.jpeg
 
 # social media links
 
 social:
-  #github: iwilkie
-  linkedin: isabella-maria-wilkie-337a62162
-  orcid: 0000-0003-1072-8081
-  gitlab: iwilkie
+  github: gdangelo8
+  #linkedin: isabella-maria-wilkie-337a62162
+  orcid: 0000-0003-2230-7321
+  # gitlab: 
 
 # build settings
 
