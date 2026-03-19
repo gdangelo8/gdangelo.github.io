@@ -1,18 +1,18 @@
 # site settings
 
-title: Grace D'Angelo
+title: Grace DAngelo
 description: This page serves as my online CV
 taglong: Microbiologist, ecologist, scientist
 tagshort: Microbiologist, ecologist, scientist
 url: https://gdangelo8.github.io/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/gdangelo8/gdangelo8.github.io/
+repo: https://github.com/gdangelo8/gdangelo8.github.io
 
 # author settings
 
 author:
-  name: Grace D'Angelo
+  name: Grace DAngelo
   email: gdangelo808@pm.me
 photo: /assets/10-GraceDangelo.png #IMG_4450.jpeg IMG_4269.jpeg
 
