@@ -1,19 +1,19 @@
 # site settings
 
-title: Isa Wilkie
+title: Grace D'Angelo
 description: This page serves as my online CV
-taglong: Molecular ecologist, bioinformatician, scientist
-tagshort: Molecular ecologist, bioinformatician, scientist
-url: https://iwilkie.github.io/
+taglong: Microbiologist, ecologist, scientist
+tagshort: Microbiologist, ecologist, scientist
+url: https://gdangelo8.github.io/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/iwilkie/iwilkie.github.io
+repo: https://github.com/gdangelo8/gdangelo8.github.io/
 
 # author settings
 
 author:
-  name: Isa Wilkie
-  email: iwilkie@mpi-bremen.de
+  name: Grace D'Angelo
+  email: gdangelo808@pm.me
 photo: /assets/jpg/IMG_4269_cropped1.png #IMG_4450.jpeg IMG_4269.jpeg
 
 # social media links
