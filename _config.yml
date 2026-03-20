@@ -48,11 +48,11 @@ sass:
 feed:
   path: atom.xml
 
-#autopages:
-#  enabled: false
+autopages:
+  enabled: false
 
 pagination:
-  enabled: true
+  enabled: false
   per_page: 1
   sort_reverse: true
   permalink: /:num/
